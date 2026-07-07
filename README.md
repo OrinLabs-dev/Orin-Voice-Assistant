@@ -67,6 +67,8 @@ py -3.11 Voice.py
 ```
 
 Or open in VS Code with Python 3.11 set as the interpreter and press Run.
+You can also find an executable file in the project
+(Note that python 3.11 is required either way)
 
 ---
 
