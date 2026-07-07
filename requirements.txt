@@ -1,0 +1,10 @@
+speechrecognition
+pyttsx3
+pyaudio
+pygame
+edge-tts
+ollama
+pyautogui
+vosk
+pyjokes
+wikipedia
