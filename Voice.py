@@ -327,7 +327,10 @@ apps = {
     "life is strange before the storm": "D:\\Life is strange\\Life is Strange Before the Storm\\Life is Strange Before the Storm\\Life is Strange - Before the Storm.exe",
     "life is strange 1": "D:\\Life is strange\\Life is Strange Complete Season\\Binaries\\Win32\\LifeIsStrange.exe",
     "cuphead": "F:\\Games\\Cuphead\\Cuphead.exe",
-    "fifa 23": "F:\\Games\\FIFA 23\\FIFA 23\\Launcher.exe",
+    "fifa 23": [
+        "F:\\Games\\FIFA 23\\FIFA 23\\Launcher.exe",
+        "C:\\Users\\User\\Desktop\\x360ce.exe"
+    ],
     "valorant": [
         "F:\\Games\\Valorant\\Riot Games\\Riot Client\\RiotClientServices.exe",
         "C:\\Users\\User\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Overwolf\\Valorant Tracker.lnk"
